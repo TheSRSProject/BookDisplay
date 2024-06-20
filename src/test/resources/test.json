@@ -1,0 +1,13 @@
+{
+  "title": "Test book",
+  "author": "SNWCreations",
+  "pages": [
+    [
+      {"text": "A", "color": "red", "bold": true},
+      {"text": "B", "color": "blue", "bold": true}
+    ],
+    [
+      {"text": "C", "color": "gray"}
+    ]
+  ]
+}

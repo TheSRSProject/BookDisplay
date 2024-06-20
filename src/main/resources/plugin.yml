@@ -1,0 +1,4 @@
+name: BookDisplay
+version: '${version}'
+main: snw.srs.bookdisplay.BookDisplay
+api-version: '1.20'
